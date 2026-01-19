@@ -4,6 +4,8 @@
 
 ![GIF of question-answering with dynamically updated B C-DKBs](https://github.com/user-attachments/assets/7bfe2f3e-8595-4142-875c-2c128da87829)
 
+↑↑↑Question-answering with dynamically updated B&C-DKBs
+
 
 # 1. General introduction of this repository
 
